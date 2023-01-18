@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BroIsaac2Hud
+- 👋 Hi, I’m @IsaacS2Hud
 - 👀 I’m interested in video game development/design
 - 🌱 I’m currently learning Gamemaker Studio 2
 - 💞️ I’m looking to collaborate on video game projects
